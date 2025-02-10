@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi , I'm  valentino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+BackEnd Developer
 
-<!--
-**zvalentinoz/zvalentinoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  about me...
 
-Here are some ideas to get you started:
+```javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  FrontEnd: [Angular,React,CSS,TypeScript,Javascript];
+  Backend: [SpringBoot,AspNetCore,NodeJs];
+  DataBase: [Mysql,PostGresSQL,SQLServer,MariaDB];
+  Languaje_Programaing:[JAVA,C#,Javascript,];
+
+```
+
+
+##  Connect with me
+<p align="center">
+	<a href="mailto:valentinoarhuata18@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/zvalentinoz"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+</a>
+	
+</p>
