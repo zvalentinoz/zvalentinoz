@@ -6,7 +6,7 @@ BackEnd Developer
 ```javascript
 
   FrontEnd: [Angular,CSS,TypeScript,Javascript];
-  Backend: [SpringBoot,AspNetCore,NodeJs;NextJs];
+  Backend: [SpringBoot,AspNetCore,NodeJs;NextJs,RxJava(WebFlux)];
   DataBase: [Mysql,PostGresSQL,SQLServer,MariaDB,Oracle,MongoDB];
   Languaje_Programaing:[JAVA,C#,Javascript,];
 
